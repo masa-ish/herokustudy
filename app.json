@@ -1,0 +1,10 @@
+{
+  "name": "ht-java-demo",
+  "description": "Demo application for Heroku Traning",
+  "env": {
+    "TEST_VARIABLE": {
+      "value": "default_value",
+      "required": false
+    }
+  }
+}
